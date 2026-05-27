@@ -6,7 +6,6 @@
 
 ### Ссылки
 - Репозиторий проекта: https://github.com/prositedeveloper/to-do-pre
-- Проект опубликованный в GitHub-Pages: https://prositedeveloper.github.io/to-do-pre
 
 ### Инструкция по запуску
 Чтобы запустить проект, нужно сделать несколько простых шагов:
